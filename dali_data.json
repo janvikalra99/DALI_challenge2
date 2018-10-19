@@ -1,0 +1,802 @@
+[{
+    "name": "Ricky",
+    "iconUrl": "images/ricky.jpg",
+    "url": "//taboada.me",
+    "message": "Let's build something.",
+    "lat_long": [
+      23.113592, -82.366596
+    ],
+    "terms_on": [
+      "17S"
+    ],
+    "project": []
+  },
+  {
+    "name": "Yenny",
+    "iconUrl": "images/yenny.jpg",
+    "url": "//yennydieguez.github.io/yenny_icon/",
+    "message": "Whataya",
+    "lat_long": [
+      20.2258, -74.1534
+    ],
+    "terms_on": [
+      "17S"
+    ],
+    "project": []
+  },
+  {
+    "name": "Tanya",
+    "iconUrl": "images/tanya.jpg",
+    "url": "images/tanyadalimappy.pdf",
+    "message": "home sweet hong kong",
+    "lat_long": [
+      22.396428,
+      114.109497
+    ],
+    "terms_on": [
+      "17S"
+    ],
+    "project": []
+  },
+  {
+    "name": "Erica",
+    "iconUrl": "images/Erica.png",
+    "url": "//assets.rbl.ms/365027/980x.jpg",
+    "message": "Swimming with whales in my dreams",
+    "lat_long": [
+      14.827991, -131.484375
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Staff"
+    ]
+  },
+  {
+    "name": "Ruoni",
+    "iconUrl": "images/ruoni.jpg",
+    "url": "//zoew.me",
+    "message": "Home is on that far east mountain tip",
+    "lat_long": [
+      27.894504,
+      102.264449
+    ],
+    "terms_on": [
+      "17X"
+    ],
+    "project": []
+  },
+  {
+    "name": "Steven",
+    "iconUrl": "images/stevoDALI.jpg",
+    "url": "//stevenchun.me",
+    "message": "My greatest pain in life is that I will never be able to see myself perform live.",
+    "lat_long": [
+      41.839787, -87.953553
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "NeuroViz"
+    ]
+  },
+  {
+    "name": "Froggy",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//giphy.com/embed/QCpqmkDHVNde",
+    "message": "Come visit me in Costa Rica!",
+    "lat_long": [
+      9.6660971, -85.0621176
+    ],
+    "terms_on": [
+      "17W",
+      "17S"
+    ],
+    "project": []
+  },
+  {
+    "name": "Aditi",
+    "iconUrl": "images/aditi.jpg",
+    "url": "//www.aditiphatak.me",
+    "message": "In the Heart of India!",
+    "lat_long": [
+      22.719569,
+      75.857726
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "BASIIC"
+    ]
+  },
+  {
+    "name": "Bella",
+    "iconUrl": "images/bella.jpg",
+    "url": "images/bella17wmappy.pdf",
+    "message": "If I could choose Id be everywhere",
+    "lat_long": [
+      40.542504, -29.597168
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Changing Perspectives"
+    ]
+  },
+  {
+    "name": "Ben",
+    "iconUrl": "images/ben.jpg",
+    "url": "//www.bencooper.io/",
+    "message": "DALI would be perfect if we had a Corgi.",
+    "lat_long": [
+      42.443037, -71.228964
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "NeuroViz"
+    ]
+  },
+  {
+    "name": "Tim",
+    "iconUrl": "images/tim_round.jpg",
+    "url": "//www.zingweb.com",
+    "message": "Hiking in the High Sierras!",
+    "lat_long": [
+      37.2320967, -118.8578716
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Staff"
+    ]
+  },
+  {
+    "name": "Josh",
+    "iconUrl": "images/Josh_Davis_portrait (200x200).jpg",
+    "url": "images/Josh_Davis_mappy_page.pdf",
+    "message": "Feed me tacos and tell me Im pretty!",
+    "lat_long": [
+      30.333265, -95.357994
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "PsychVR"
+    ]
+  },
+  {
+    "name": "Kate",
+    "iconUrl": "images/kate.jpg",
+    "url": "images/kate-page.pdf",
+    "message": "I love snow!",
+    "lat_long": [
+      44.227173, -71.747907
+    ],
+    "terms_on": [
+      "17W",
+      "17S"
+    ],
+    "project": [
+      "Staff"
+    ]
+  },
+  {
+    "name": "Theo",
+    "iconUrl": "images/Theo.jpg",
+    "url": "images/TheoSite.pdf",
+    "message": "I like poptarts!",
+    "lat_long": [
+      42.373616, -71.109734
+    ],
+    "terms_on": [
+      "17W",
+      "17S"
+    ],
+    "project": [
+      "Staff"
+    ]
+  },
+  {
+    "name": "Lillian",
+    "iconUrl": "images/lillian.jpg",
+    "url": "//www.zhaolillian.com/about-me-dali",
+    "message": "MIA in Argentina",
+    "lat_long": [
+      40.6084, -75.4902
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": []
+  },
+  {
+    "name": "Luisa",
+    "iconUrl": "images/luisa.jpg",
+    "url": "//vluisa.github.io/mapWebsite/",
+    "message": "I was born here!",
+    "lat_long": [
+      4.444676, -75.242438
+    ],
+    "terms_on": [
+      "17W",
+      "17S"
+    ],
+    "project": [
+      "NeuroViz",
+      "Core"
+    ]
+  },
+  {
+    "name": "Pat",
+    "iconUrl": "images/pat.jpg",
+    "url": "//www.patrickxu.com",
+    "message": "Exploring Yellowstone!",
+    "lat_long": [
+      44.797716, -110.434368
+    ],
+    "terms_on": [
+      "17W", "17S"
+    ],
+    "project": [
+      "Core"
+    ]
+  },
+  {
+    "name": "Kyle",
+    "iconUrl": "images/kyle.jpg",
+    "url": "//kyledotterrer.me",
+    "message": "Building a Fire!",
+    "lat_long": [
+      44.763057, -85.620632
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Pulse"
+    ]
+  },
+  {
+    "name": "Nitasha",
+    "iconUrl": "images/Nitasha.jpg",
+    "url": "//nitashakochar.github.io/nitashakochar.me/",
+    "message": "Anybody wanna watch Sherlock?",
+    "lat_long": [
+      40.792044, -73.539848
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Life You Can Lead"
+    ]
+  },
+  {
+    "name": "Jessie",
+    "iconUrl": "images/jessie.JPG",
+    "url": "//jessieanderson.me",
+    "message": "expelliarmus",
+    "lat_long": [
+      41.478049, -81.357181
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Pulse"
+    ]
+  },
+  {
+    "name": "Will",
+    "iconUrl": "images/will.jpg",
+    "url": "//www.wjkaufman.com",
+    "message": "Favorite ski spot",
+    "lat_long": [
+      37.938491, -107.810185
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Seabird Apps"
+    ]
+  },
+  {
+    "name": "Ijemma",
+    "iconUrl": "images/ijemma.jpg",
+    "url": "//ijemmao.github.io/ijemmao.me",
+    "message": "Drinking some boba tea",
+    "lat_long": [
+      37.9492282, -121.735452
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Seabird Apps"
+    ]
+  },
+  {
+    "name": "Danah",
+    "iconUrl": "images/danah.jpg",
+    "url": "//danah23.github.io/danahhan.me",
+    "message": "Patiently waiting for the return of GOT",
+    "lat_long": [
+      40.804821, -73.33623
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "NeuroViz"
+    ]
+  },
+  {
+    "name": "Nisha",
+    "iconUrl": "images/Nisha.jpg",
+    "url": "//nishakumarigr.github.io/nishakumari.me",
+    "message": "Splashing colors!",
+    "lat_long": [
+      20.5937,
+      78.9629
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Protein Structure Builder"
+    ]
+  },
+  {
+    "name": "Carter",
+    "iconUrl": "images/carter_headshot.jpg",
+    "url": "//planetcarter.me",
+    "message": "Here comes dat boi!",
+    "lat_long": [
+      47.65878, -117.426047
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "BASIIC"
+    ]
+  },
+  {
+    "name": "Annie",
+    "iconUrl": "images/annie.jpg",
+    "url": "//annieke.me",
+    "message": "Let me crash here for the moment",
+    "lat_long": [
+      37.338208, -121.886329
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Protein Structure Builder"
+    ]
+  },
+  {
+    "name": "Adam",
+    "iconUrl": "images/adam.png",
+    "url": "//arinehouse.me",
+    "message": "Born in the heart of Pennsyltucky",
+    "lat_long": [
+      41.311206, -75.963614
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Protein Structure Builder"
+    ]
+  },
+  {
+    "name": "Jasper",
+    "iconUrl": "images/headshot.png",
+    "url": "//jbing.me/jbing.me",
+    "message": "Riding the second avenue subway",
+    "lat_long": [
+      40.712784, -74.005941
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "NeuroViz"
+    ]
+  },
+  {
+    "name": "Sia",
+    "iconUrl": "images/siapeng.jpg",
+    "url": "images/SIA PENG.pdf",
+    "message": "Learning to chill in chilly winter",
+    "lat_long": [
+      28.2282,
+      112.9388
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "PsychVR"
+    ]
+  },
+  {
+    "name": "Anne",
+    "iconUrl": "images/Anne_mappysquarephoto.jpeg",
+    "url": "images/Anne_mappy.pdf",
+    "message": "binge watching Stranger Things, brb",
+    "lat_long": [
+      43.208137, -71.537572
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Protein Structure Builder"
+    ]
+  },
+  {
+    "name": "Ellis",
+    "iconUrl": "images/ellisguo.jpg",
+    "url": "//eg17mappy.me",
+    "message": "It isn't work if nobody makes you do it",
+    "lat_long": [
+      35.689487,
+      139.691706
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Clearpay"
+    ]
+  },
+  {
+    "name": "Amy",
+    "iconUrl": "images/amy.JPG",
+    "url": "images/amy_page.pdf",
+    "message": "blankety blank",
+    "lat_long": [
+      40.432914, -74.663464
+    ],
+    "terms_on": [
+      "17W",
+      "17S"
+    ],
+    "project": [
+      "Core"
+    ]
+  },
+  {
+    "name": "Alexis",
+    "iconUrl": "images/alexis.jpg",
+    "url": "images/alexispage.pdf",
+    "message": "rollin",
+    "lat_long": [
+      34.420831, -119.69819
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "NeuroViz"
+    ]
+  },
+  {
+    "name": "Abby",
+    "iconUrl": "images/abby.jpg",
+    "url": "//astarr.me",
+    "message": "Ice Fishing Paradise!",
+    "lat_long": [
+      44.121081, -70.522895
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Life You Can Lead"
+    ]
+  },
+  {
+    "name": "Sidney",
+    "iconUrl": "images/sidney.png",
+    "url": "//sidthesquid.surge.sh",
+    "message": "Vim or I :qa!",
+    "lat_long": [
+      40.7557, -73.5876
+    ],
+    "terms_on": [
+      "17W",
+      "17S"
+    ],
+    "project": [
+      "Core"
+    ]
+  },
+  {
+    "name": "Alex",
+    "iconUrl": "images/alex.jpg",
+    "url": "//alexchanis.me",
+    "message": "I dont think anyone has screwed this up yet. Maybe Ill be the first",
+    "lat_long": [
+      35.960638, -83.920739
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Changing Perspectives"
+    ]
+  },
+  {
+    "name": "Jane",
+    "iconUrl": "images/jane.jpg",
+    "url": "//jjanelee.me",
+    "message": "Washingtonian at Heart",
+    "lat_long": [
+      47.6101, -122.2015
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "BASIIC"
+    ]
+  },
+  {
+    "name": "Jenny",
+    "iconUrl": "images/jenny.jpg",
+    "url": "//jennybobenny.tumblr.com/hello",
+    "message": "Heroes Never Die! 0:-)",
+    "lat_long": [
+      37.492701,
+      127.055297
+    ],
+    "terms_on": [
+      "17W",
+      "17S"
+    ],
+    "project": [
+      "Core",
+      "NeuroViz"
+    ]
+  },
+  {
+    "name": "Danielle",
+    "iconUrl": "images/danielle.jpg",
+    "url": "//daniellemidulla.me",
+    "message": "Start spreading the news, I'm leaving today.",
+    "lat_long": [
+      40.770968, -73.948921
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Changing Perspectives"
+    ]
+  },
+  {
+    "name": "Regina",
+    "iconUrl": "images/yeginaran.jpg",
+    "url": "//reginayan.me/about.pdf",
+    "message": "just doin good to be here",
+    "lat_long": [
+      38.982228, -94.670792
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "NeuroViz"
+    ]
+  },
+  {
+    "name": "John",
+    "iconUrl": "images/john.jpg",
+    "url": "//www.johnkotz.us",
+    "message": "Dartmouth, born and raised",
+    "lat_long": [
+      43.790618, -72.194191
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Life You Can Lead"
+    ]
+  },
+  {
+    "name": "Jason",
+    "iconUrl": "images/jason.jpg",
+    "url": "//www.jasonfeng.com",
+    "message": "this was really hard to make",
+    "lat_long": [
+      31.2304,
+      121.4737
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Core"
+    ]
+  },
+  {
+    "name": "Emma",
+    "iconUrl": "images/emmao.jpg",
+    "url": "//emmaoberstein.github.io",
+    "message": "I was born in Miami",
+    "lat_long": [
+      25.76, -80.19
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Protein Structure Builder"
+    ]
+  },
+  {
+    "name": "Virginia",
+    "iconUrl": "images/virginia.jpg",
+    "url": "//virginiacook.github.io",
+    "message": "This is my favorite place to watch the sunset!",
+    "lat_long": [
+      41.2599, -72.0164
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Clearpay"
+    ]
+  },
+  {
+    "name": "Tyler",
+    "iconUrl": "images/tyler.jpg",
+    "url": "//burnamtech.com",
+    "message": "let's talk",
+    "lat_long": [
+      47.608013, -122.335167
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Grafficity"
+    ]
+  },
+  {
+    "name": "Emma",
+    "iconUrl": "images/emma.jpg",
+    "url": "images/emma intro.pdf",
+    "message": "I love bagels",
+    "lat_long": [
+      42.611202, -71.574515
+    ],
+    "terms_on": [
+      "17W"
+    ],
+    "project": [
+      "Seabird Apps"
+    ]
+  },
+  {
+    "name": "Sofia",
+    "iconUrl": "images/sofia.png",
+    "url": "//sofiastanescu-bellu.me",
+    "message": "Can't touch the vision!",
+    "lat_long": [
+      45.760385,
+      21.236465
+    ],
+    "terms_on": [
+      "17S"
+    ],
+    "project": [
+      ""
+    ]
+  },
+  {
+    "name": "Young",
+    "iconUrl": "images/young-jang-profile.jpg",
+    "url": "images/Young Jang Mappy.pdf",
+    "message": "New!",
+    "lat_long": [
+      32.776664, -96.796988
+    ],
+    "terms_on": [
+      "17S"
+    ],
+    "project": [
+      ""
+    ]
+  },
+  {
+    "name": "Teddy",
+    "iconUrl": "images/teddy.jpg",
+    "url": "//teddyni.me",
+    "message": "always down to chill to some Taylor Swift",
+    "lat_long": [
+      41.732343, -71.311612
+    ],
+    "terms_on": [
+      "17S"
+    ],
+    "project": [
+      ""
+    ]
+  },
+  {
+    "name": "Allison",
+    "iconUrl": "images/allison.jpg",
+    "url": "//allisonchuang.me",
+    "message": "Just happy to be here!",
+    "lat_long": [
+      37.886870, -122.297748
+    ],
+    "terms_on": [
+      "17F"
+    ],
+    "project": [
+      ""
+    ]
+  },
+  {
+    "name": "Alma",
+    "iconUrl":"images/alma.jpg",
+    "url": "//almawang.github.io/almawang.me/",
+    "message": "yolo",
+    "lat_long": [
+      40.785663, -73.474733
+    ],
+    "terms_on": [
+      "17F"
+    ],
+    "project": [
+      ""
+    ]
+  },
+  {
+    "name": "Yeonjae",
+    "iconUrl": "images/yeonjae.jpg",
+    "url": "//yeonjaepark.me",
+    "message": "Let's go on a photo adventure!",
+    "lat_long": [
+      42.395640, -71.177611
+    ],
+    "terms_on": [
+      "17F"
+    ],
+    "project": [
+      ""
+    ]
+  },
+  {
+    "name": "Kaitlyn",
+    "iconUrl": "images/kaitlyn.jpg",
+    "url": "//kaithahn.me",
+    "message": "do u like frank ocean",
+    "lat_long": [
+      34.238982, -118.235119
+    ],
+    "terms_on": [
+      "17F"
+    ],
+    "project": [
+      ""
+    ]
+  }
+]
